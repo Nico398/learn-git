@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuni_library.a CMakeFiles/uni_library.dir/src/student.c.o CMakeFiles/uni_library.dir/src/library.c.o CMakeFiles/uni_library.dir/src/book.c.o
+/usr/bin/ranlib libuni_library.a

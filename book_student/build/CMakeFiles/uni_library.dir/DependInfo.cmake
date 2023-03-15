@@ -1,0 +1,21 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/workspaces/learn-git/book_student/src/book.c" "CMakeFiles/uni_library.dir/src/book.c.o" "gcc" "CMakeFiles/uni_library.dir/src/book.c.o.d"
+  "/workspaces/learn-git/book_student/src/library.c" "CMakeFiles/uni_library.dir/src/library.c.o" "gcc" "CMakeFiles/uni_library.dir/src/library.c.o.d"
+  "/workspaces/learn-git/book_student/src/student.c" "CMakeFiles/uni_library.dir/src/student.c.o" "gcc" "CMakeFiles/uni_library.dir/src/student.c.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

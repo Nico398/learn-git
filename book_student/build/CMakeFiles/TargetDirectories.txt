@@ -1,0 +1,8 @@
+/workspaces/learn-git/book_student/build/CMakeFiles/uni_library.dir
+/workspaces/learn-git/book_student/build/CMakeFiles/demo_1_main.dir
+/workspaces/learn-git/book_student/build/CMakeFiles/edit_cache.dir
+/workspaces/learn-git/book_student/build/CMakeFiles/rebuild_cache.dir
+/workspaces/learn-git/book_student/build/CMakeFiles/list_install_components.dir
+/workspaces/learn-git/book_student/build/CMakeFiles/install.dir
+/workspaces/learn-git/book_student/build/CMakeFiles/install/local.dir
+/workspaces/learn-git/book_student/build/CMakeFiles/install/strip.dir
