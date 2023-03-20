@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*
 void book_print(book const *const b_ptr)
 {
     if (b_ptr == NULL)
@@ -30,3 +31,4 @@ void book_print(book const *const b_ptr)
 
     }
 }
+*/

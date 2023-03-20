@@ -57,9 +57,10 @@ int main()
                 }
                 break;
             case 3:
-                printf("Print Group Logo: ");
+                printf("Print Group Logo: \n");
 
-                library_print_book(&lib);
+                //library_print_book(&lib);
+                book_print(&lib);
                 break;
             case 8:
                 continue_loop = 0;

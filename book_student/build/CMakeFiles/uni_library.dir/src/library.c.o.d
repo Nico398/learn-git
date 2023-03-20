@@ -3,7 +3,6 @@ CMakeFiles/uni_library.dir/src/library.c.o: \
  /usr/include/stdc-predef.h \
  /workspaces/learn-git/book_student/include/library.h \
  /usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h \
- /workspaces/learn-git/book_student/include/book.h \
  /workspaces/learn-git/book_student/include/student.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \

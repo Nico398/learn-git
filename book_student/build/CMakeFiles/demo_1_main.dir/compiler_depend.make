@@ -56,7 +56,6 @@ CMakeFiles/demo_1_main.dir/src/main.c.o: /workspaces/learn-git/book_student/src/
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
   /workspaces/learn-git/book_student/include/library.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h \
-  /workspaces/learn-git/book_student/include/book.h \
   /workspaces/learn-git/book_student/include/student.h
 
 
@@ -115,8 +114,6 @@ CMakeFiles/demo_1_main.dir/src/main.c.o: /workspaces/learn-git/book_student/src/
 /usr/include/stdio.h:
 
 /usr/include/x86_64-linux-gnu/bits/floatn-common.h:
-
-/workspaces/learn-git/book_student/include/book.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h:
 
